@@ -2,8 +2,8 @@
 
 ## Tecnologias utilizadas
 
--1 HTML5
--2 CSS3
+1. HTML5
+2. CSS3
 
 ## Estrutura do projeto
 O projeto contém apenas um arquivo HTML que possui a estrutura básica de uma página web. Além disso, possui um estilo CSS embutido na página para a formatação do formulário e das outras seções.
